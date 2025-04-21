@@ -8,3 +8,7 @@ Objetivos a cumplir por los estudiantes:
 Python 3
 ● 5. Manejo de conceptos vinculados a POO
 ● 6. Manejo básico de Git y GitHub (crear repositorio y subir archivos)
+
+Integrantes
+Paula Antonela Bigorra 46557680
+Mauricio Ivan Barreras 46191245
