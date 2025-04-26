@@ -1,0 +1,7 @@
+Atributos públicos vs atributos privados
+
+¿Aplica este mismo criterio para los métodos?
+
+Utilizando la función dir aplicada a un objeto: ¿Qué devuelve? ¿Puede llamar a un atributo o método privado?
+
+¿Cómo adaptaría el código fuente implementado para atender a este nuevo criterio?
